@@ -33,6 +33,7 @@ Desarrollar un dashboard en Streamlit que anticipe el campeón de los playoffs a
 | Entorno | `python-dotenv` |
 
 ## 📁 Estructura del Proyecto
+```
 nba_playoffs_predictor/
 ├── .env
 ├── requirements.txt
@@ -69,7 +70,8 @@ nba_playoffs_predictor/
 │       ├── session_state.py
 │       └── utils.py
 └── models/
-    └── playoff_predictor.pkl 
+    └── playoff_predictor.pkl
+```
 
 
 ## 📚 Antecedentes y proyectos similares
