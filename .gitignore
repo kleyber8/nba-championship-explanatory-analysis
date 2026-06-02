@@ -6,3 +6,6 @@ data/raw/*
 data/processed/*
 models/*.pkl
 .ipynb_checkpoints/
+reports/
+debug_*.py
+diagnostic_*.py
